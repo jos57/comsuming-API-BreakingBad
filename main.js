@@ -20,7 +20,7 @@ button.addEventListener('click', ()=>{
         while (quote.firstChild) {
             quote.removeChild(quote.firstChild);//delete sons--
           }
-    },3000)
+    },5000)
 })
 
 
